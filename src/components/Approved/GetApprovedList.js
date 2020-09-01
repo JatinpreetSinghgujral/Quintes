@@ -26,7 +26,7 @@ class GetApprovedList extends Component {
       filteredData: []
 
 
-      
+
 
     }
   }
