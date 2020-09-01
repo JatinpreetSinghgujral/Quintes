@@ -25,6 +25,9 @@ class GetApprovedList extends Component {
       isFilterActive: false,
       filteredData: []
 
+
+      
+
     }
   }
 
